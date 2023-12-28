@@ -42,3 +42,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# db file
+*.db
